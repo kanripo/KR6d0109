@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:49:54.988442
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:34
 #+TITLE: 大法鼓經
 #+PROPERTY: CBETA_ID T09n0270
 #+PROPERTY: ID KR6d0109
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 09, No. 0270
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0109_T_000-0290b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6d0109_T_002-0295a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 《大法鼓經》卷下¶
+《大法鼓經》卷下¶
 ¶
 宋天竺三藏求那跋陀羅譯¶
 
@@ -38,8 +37,7 @@
 所遊行七寶常隨。如是安慰說者所住之處，¶
 如是比經常與彼俱。如轉輪聖王所住之處，¶
 七寶隨住不住餘處，其非真寶住於餘處。如¶
-是安慰說者現在所住，如是比經悉從他¶
-方來至其所，諸不了義空相應經於餘處住。¶
+是安慰說者現在所住，如是比經悉從他方來至其所，諸不了義空相應經於餘處住。¶
 如是安慰說者所住至方，此經常隨；如轉輪¶
 聖王所遊之處，諸餘眾生隨順王者，作如是¶
 念：『彼王所住我亦應去。』如是安慰說者所住¶
@@ -695,9 +693,9 @@
 　如是比丘，
 　世間難得，¶
 　能為世間，
-　說究竟道。』」
+　說究竟道。』」」
 #+END_VERSE
-」¶
+¶
 
 爾時，迦葉、阿難、賢護菩薩等無量大眾，聞佛¶
 所說，歡喜奉行。¶
